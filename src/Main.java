@@ -78,20 +78,5 @@ public class Main {
             case "+" -> System.out.println(minCem + maxCem);
             case "-" -> System.out.println(minCem - maxCem);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
